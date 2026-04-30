@@ -19,6 +19,9 @@ Utilizar polimorfismo com métodos sobrescritos
 Implementar encapsulamento para proteção de dados
 Criar exemplos práticos em JavaScript e PHP
 Conceitos de POO Utilizados
+
+
+
 🔹 1. Herança
 
 A herança permite que uma classe reutilize atributos e métodos de outra classe.
