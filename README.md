@@ -30,6 +30,8 @@ As classes Aluno, Professor, Diretor e Funcionario herdam de Pessoa
 
 Isso evita repetição de código e melhora a organização.
 
+
+
 🔹 2. Polimorfismo
 
 O polimorfismo permite que métodos com o mesmo nome tenham comportamentos diferentes.
@@ -45,6 +47,8 @@ Aluno → fala como estudante
 Professor → fala como docente
 Diretor → fala como gestor
 Funcionário → fala como colaborador
+
+
 🔹 3. Encapsulamento
 
 
